@@ -1,3 +1,15 @@
+```diff
+! IMPORTANT MESSAGE (November, 12th 2025):
+! Dear all, please note that I (Howetuft) am discontinuing maintenance of this workbench as of now.
+! I would like to thank everyone for all their contributions, discussions, and showcases over the last few years.
+! If anyone would like to take over, please let me know, for example via PM on FreeCAD forum,
+! or by opening an issue on this project.
+! I would be happy to transfer the administration rights on the repository.
+```
+
+
+
+
 # FreeCAD Render Workbench
 
 [![FreeCAD Addon manager status](https://img.shields.io/badge/FreeCAD%20addon%20manager-available-brightgreen)](https://github.com/FreeCAD/FreeCAD-addons)
