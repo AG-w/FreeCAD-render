@@ -821,7 +821,8 @@ def _get_rends_from_wall(obj, name, material, mesher, **kwargs):
                 component_rends += get_renderables(
                     subobj, subname, material, mesher, **kwargs
                 )
-
+        origin.base -= obj.Placement.base
+        
         component_rends = [
             _adjust(r, origin, material) for r in component_rends
         ]
